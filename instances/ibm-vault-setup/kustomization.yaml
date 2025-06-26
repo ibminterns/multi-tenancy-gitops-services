@@ -1,0 +1,11 @@
+resources:
+
+#roles
+- roles/clusterrole.yaml
+- roles/clusterrolebinding.yaml
+
+#configmap
+- configmap/vault-configmap.yaml
+
+#storage
+- storage/pvc.yaml
