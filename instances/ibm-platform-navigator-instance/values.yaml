@@ -8,5 +8,5 @@ ibm-platform-navigator-instance:
         accept: true
         license: L-RJON-BUVMQX
       mqDashboard: true
-      version: 16.1.2.0      #updated from 2020.4.1-eus 
+      version: 16.1.2      #updated from 2020.4.1-eus 
       replicas: 2   
