@@ -6,7 +6,7 @@ ibm-platform-navigator-instance:
     spec:
       license:
         accept: true
-        license: L-RJON-BUVMQX
+        license: L-CYPF-CRPF3H
       mqDashboard: true
-      version: 2020.4.1-eus     
+      version: 16.1.2      
       replicas: 2   
