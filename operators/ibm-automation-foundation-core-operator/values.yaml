@@ -5,7 +5,7 @@ ibm-automation-foundation-core-operator:
     ibmautomation:
       name: ibm-automation-foundation-core
       subscription:
-        channel: v4.12
+        channel: v1.3
         installPlanApproval: Automatic
         name: ibm-automation-core
         source: iaf-core-operators
